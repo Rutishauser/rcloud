@@ -1,0 +1,9 @@
+Package: rcloud.spin
+Title: 3D WebGL Support for RCloud
+Version: 1.41
+Author: Victor Sadikov <vs1215@sunset.amsoft.ru>
+Maintainer: Gordon Woodhull <gordon@research.att.com>
+Description: rcloud.spin implements client side 3D visualization in an RCloud cell
+Depends: rcloud.support
+NOTE: --- packages that are not on CRAN/RForge.net *must* be in Suggests! ---
+License: MIT
